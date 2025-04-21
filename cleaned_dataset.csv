@@ -1,0 +1,31 @@
+ID,Transliterated Text,English Translation,Source,Dynasty/Time Period,Sentiment,Emotion Tag,Cleaned Transliteration,Cleaned English
+1,djed medu neferu in nTr aA,Beautiful words spoken by the great god,Pyramid Texts,Old Kingdom (5th Dynasty),Positive,Reverence,djed medu neferu ntr aa,beautiful word spoken great god
+2,mAa xrw,True of voice,Pyramid Texts,Old Kingdom,Positive,Respect,maa xrw,true voice
+3,ir.n.f nfru n nb.f,He did good things for his lord,Pyramid Texts,Old Kingdom,Positive,Loyalty,irnf nfru n nbf,good thing lord
+4,sDm.n.f sw Hr rA.f,He listened to him as he spoke,Tale of Sinuhe,Middle Kingdom (12th Dynasty),Neutral,Curiosity,sdmnf sw hr raf,listened spoke
+5,xw Hr.f Hna sn.f,His body trembled with his brother,Tale of Sinuhe,Middle Kingdom,Negative,Fear,xw hrf hna snf,body trembled brother
+6,anx wDA snb,"Life, prosperity, and health",Letters to the Dead,Middle Kingdom,Positive,Blessing,anx wda snb,life prosperity health
+7,anx wDA snb n nb.f,"Life, prosperity, and health to his lord",Instructions of Amenemhat,Middle Kingdom,Positive,Devotion,anx wda snb n nbf,life prosperity health lord
+8,xft-Hr n.k nb nfr,Before you is all good,Instruction of Ptahhotep,Old Kingdom,Positive,Optimism,xfthr nk nb nfr,good
+9,in ink nfr n rxyt,I am the excellent one among the common people,Satire of the Trades,Middle Kingdom,Mixed,Pride,ink nfr n rxyt,excellent one among common people
+10,pA sS iry m pr anx,The scribe is the one who acts in the house of life,Satire of the Trades,Middle Kingdom,Positive,Wisdom,pa s iry pr anx,scribe one act house life
+11,nfr n.k rnpwt mA Htp,May years come to you in peace,Hymn to Aten,New Kingdom (18th Dynasty),Positive,Peace,nfr nk rnpwt htp,may year come peace
+12,iry.tw st n Itn nfr,It is created for the beautiful Aten,Hymn to Aten,New Kingdom,Positive,Gratitude,irytw st n itn nfr,created beautiful aten
+13,in nTr ir.n.f tA,The god made the land,Hymn to Amun,New Kingdom,Positive,Devotion,ntr irnf ta,god made land
+14,ib.f Hsy n Itn,His heart rejoices for Aten,Hymn to Aten,New Kingdom,Positive,Joy,ibf hsy n itn,heart rejoices aten
+15,anx nTr nfr Dsr,"The living, good, sacred god",Royal Inscriptions,New Kingdom,Positive,Awe,anx ntr nfr dsr,living good sacred god
+16,anx ib n tA,May the heart of the land live,Royal Propaganda,New Kingdom,Positive,Patriotism,anx ib n ta,may heart land live
+17,nfr ib n.t mrryt,Good is the heart of the beloved one,Love Songs,New Kingdom,Positive,Affection,nfr ib nt mrryt,good heart beloved one
+18,mrry.k iw iry.k,Your beloved does as you desire,Love Songs,New Kingdom,Positive,Love,mrryk iw iryk,beloved desire
+19,anx.ti iry.k iw.f Hr xnt,"May you live, and your beloved be before you",Love Songs,New Kingdom,Positive,Longing,anxti iryk iwf hr xnt,may live beloved
+20,xaa n nb anx,Shine for the living lord,Liturgical Hymn,New Kingdom,Positive,Glory,xaa n nb anx,shine living lord
+21,ir nfr r HAt nbt,Do good for the noble lady,Instruction of Ani,Late Period (25th–26th Dynasties),Positive,Moral Advice,ir nfr r hat nbt,good noble lady
+22,sxr Hr rxyt xw,Devise plans concerning the common people,Instruction Text,Late Period,Mixed,Authority,sxr hr rxyt xw,devise plan concerning common people
+23,anx wDA snb m Dd mdw,"Life, prosperity, and health in spoken words",Temple Inscriptions,Late Period,Positive,Ritual Blessing,anx wda snb dd mdw,life prosperity health spoken word
+24,dA Hr.f mAa xrw,"His arm was extended, true of voice",Temple Hymns,Late Period,Neutral,Strength,da hrf maa xrw,arm extended true voice
+25,ink xnt sA r,I am foremost among the sons of Ra,Temple Texts,Ptolemaic Period,Mixed,Arrogance,ink xnt sa r,foremost among son ra
+26,iw.f Haa Hr tA,He who rises upon the land,Hymn to the Nile,Middle Kingdom,Positive,Fertility,iwf haa hr ta,rise upon land
+27,Dd mdw in nbt-Hwt-Hr,Words spoken by Lady Hathor,Hymns to Hathor,New Kingdom,Positive,Devotion,dd mdw nbthwthr,word spoken lady hathor
+28,smn ib.i Hr sDm.k,My heart is set on hearing you,Love Poetry,New Kingdom,Positive,Desire,smn ibi hr sdmk,heart set hearing
+29,Htp di nsw in Imn-Ra nb nswt tAwy,"An offering given by the king to Amun-Ra, lord of the thrones of the Two Lands",Funerary Inscriptions,New Kingdom,Positive,Offering,htp di nsw imnra nb nswt tawy,offering given king amunra lord throne two land
+30,iry xw.f Hr xnt Dsr,His body prepared for the sacred land,Funerary Texts,Late Period,Neutral,Acceptance,iry xwf hr xnt dsr,body prepared sacred land
