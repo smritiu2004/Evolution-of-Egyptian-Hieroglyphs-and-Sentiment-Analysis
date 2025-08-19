@@ -1,31 +1,51 @@
-ID,Transliterated Text,English Translation,Source,Dynasty/Time Period,Sentiment,Emotion Tag,Cleaned Transliteration,Cleaned English
-1,djed medu neferu in nTr aA,Beautiful words spoken by the great god,Pyramid Texts,Old Kingdom (5th Dynasty),Positive,Reverence,djed medu neferu ntr aa,beautiful word spoken great god
-2,mAa xrw,True of voice,Pyramid Texts,Old Kingdom,Positive,Respect,maa xrw,true voice
-3,ir.n.f nfru n nb.f,He did good things for his lord,Pyramid Texts,Old Kingdom,Positive,Loyalty,irnf nfru n nbf,good thing lord
-4,sDm.n.f sw Hr rA.f,He listened to him as he spoke,Tale of Sinuhe,Middle Kingdom (12th Dynasty),Neutral,Curiosity,sdmnf sw hr raf,listened spoke
-5,xw Hr.f Hna sn.f,His body trembled with his brother,Tale of Sinuhe,Middle Kingdom,Negative,Fear,xw hrf hna snf,body trembled brother
-6,anx wDA snb,"Life, prosperity, and health",Letters to the Dead,Middle Kingdom,Positive,Blessing,anx wda snb,life prosperity health
-7,anx wDA snb n nb.f,"Life, prosperity, and health to his lord",Instructions of Amenemhat,Middle Kingdom,Positive,Devotion,anx wda snb n nbf,life prosperity health lord
-8,xft-Hr n.k nb nfr,Before you is all good,Instruction of Ptahhotep,Old Kingdom,Positive,Optimism,xfthr nk nb nfr,good
-9,in ink nfr n rxyt,I am the excellent one among the common people,Satire of the Trades,Middle Kingdom,Mixed,Pride,ink nfr n rxyt,excellent one among common people
-10,pA sS iry m pr anx,The scribe is the one who acts in the house of life,Satire of the Trades,Middle Kingdom,Positive,Wisdom,pa s iry pr anx,scribe one act house life
-11,nfr n.k rnpwt mA Htp,May years come to you in peace,Hymn to Aten,New Kingdom (18th Dynasty),Positive,Peace,nfr nk rnpwt htp,may year come peace
-12,iry.tw st n Itn nfr,It is created for the beautiful Aten,Hymn to Aten,New Kingdom,Positive,Gratitude,irytw st n itn nfr,created beautiful aten
-13,in nTr ir.n.f tA,The god made the land,Hymn to Amun,New Kingdom,Positive,Devotion,ntr irnf ta,god made land
-14,ib.f Hsy n Itn,His heart rejoices for Aten,Hymn to Aten,New Kingdom,Positive,Joy,ibf hsy n itn,heart rejoices aten
-15,anx nTr nfr Dsr,"The living, good, sacred god",Royal Inscriptions,New Kingdom,Positive,Awe,anx ntr nfr dsr,living good sacred god
-16,anx ib n tA,May the heart of the land live,Royal Propaganda,New Kingdom,Positive,Patriotism,anx ib n ta,may heart land live
-17,nfr ib n.t mrryt,Good is the heart of the beloved one,Love Songs,New Kingdom,Positive,Affection,nfr ib nt mrryt,good heart beloved one
-18,mrry.k iw iry.k,Your beloved does as you desire,Love Songs,New Kingdom,Positive,Love,mrryk iw iryk,beloved desire
-19,anx.ti iry.k iw.f Hr xnt,"May you live, and your beloved be before you",Love Songs,New Kingdom,Positive,Longing,anxti iryk iwf hr xnt,may live beloved
-20,xaa n nb anx,Shine for the living lord,Liturgical Hymn,New Kingdom,Positive,Glory,xaa n nb anx,shine living lord
-21,ir nfr r HAt nbt,Do good for the noble lady,Instruction of Ani,Late Period (25th–26th Dynasties),Positive,Moral Advice,ir nfr r hat nbt,good noble lady
-22,sxr Hr rxyt xw,Devise plans concerning the common people,Instruction Text,Late Period,Mixed,Authority,sxr hr rxyt xw,devise plan concerning common people
-23,anx wDA snb m Dd mdw,"Life, prosperity, and health in spoken words",Temple Inscriptions,Late Period,Positive,Ritual Blessing,anx wda snb dd mdw,life prosperity health spoken word
-24,dA Hr.f mAa xrw,"His arm was extended, true of voice",Temple Hymns,Late Period,Neutral,Strength,da hrf maa xrw,arm extended true voice
-25,ink xnt sA r,I am foremost among the sons of Ra,Temple Texts,Ptolemaic Period,Mixed,Arrogance,ink xnt sa r,foremost among son ra
-26,iw.f Haa Hr tA,He who rises upon the land,Hymn to the Nile,Middle Kingdom,Positive,Fertility,iwf haa hr ta,rise upon land
-27,Dd mdw in nbt-Hwt-Hr,Words spoken by Lady Hathor,Hymns to Hathor,New Kingdom,Positive,Devotion,dd mdw nbthwthr,word spoken lady hathor
-28,smn ib.i Hr sDm.k,My heart is set on hearing you,Love Poetry,New Kingdom,Positive,Desire,smn ibi hr sdmk,heart set hearing
-29,Htp di nsw in Imn-Ra nb nswt tAwy,"An offering given by the king to Amun-Ra, lord of the thrones of the Two Lands",Funerary Inscriptions,New Kingdom,Positive,Offering,htp di nsw imnra nb nswt tawy,offering given king amunra lord throne two land
-30,iry xw.f Hr xnt Dsr,His body prepared for the sacred land,Funerary Texts,Late Period,Neutral,Acceptance,iry xwf hr xnt dsr,body prepared sacred land
+ID,Transliterated Text,English Translation,Category,Time Period,Sentiment,Confidence Score,cleaned_text,Sentiment_Label
+1, jr=f jry r jḥm prt-ḫrw, He has come approaching the realm of the dead with an invocation-offering, Pyramid Texts, Old Kingdom, Positive,0.9,pyramid text,2
+2, nb tA dsr nb ankh wAs, Lord of the Great Land lord of life and strength, Pyramid Texts, Old Kingdom, Neutral,0.88,pyramid text,1
+3, jw Dt jm xt wn Dd=f xrw sA3 nn rsy, He is on the frightened side when his voice cries out for terror; let him not be hidden!, Funerary Inscriptions, Old Kingdom, Negative,0.78,funerary inscription,0
+4, Dd mdw sw anḫ n kAw sy, Speak words to him; life is for the wise one, Wisdom Literature, Old Kingdom, Positive,0.73,wisdom literature,2
+5, kn t3 rn ḥrw psḏt=k, When your day comes death will be with you, Wisdom Literature, Old Kingdom, Negative,0.8,wisdom literature,0
+6, nTr kAxt Ḥr nb tAw nb dSr, A god shining in power above lord of the Two Lands lord of monuments, Hymns, Old Kingdom, Positive,0.77,hymn,2
+7, dsj-pr iwbt jm nTrw m sxt, Commander of the palace beloved of the gods in festival, Administrative Texts, Old Kingdom, Neutral,0.89,administrative text,1
+8, Hr ḥsy grg ḥmt=f nfr ḏb.t, At the feast of barley-cheek his wife is beautiful as a lotus, Secular Poetry, Old Kingdom, Positive,0.74,secular poetry,2
+9, jw Ìxr ḫrw psḏ Dd=f sA, May evil overtake him; may his name fall silent, Funerary Inscriptions, Old Kingdom, Negative,0.79,funerary inscription,0
+10, jry niw Xft n Hms.f ḥk3w nfrw, He rejoices over the fat of the field for his herds; the leaders of cattle are satisfied, Secular Poetry, Old Kingdom, Positive,0.83,secular poetry,2
+11, ḥtp dỉ nṯr ptḥ prt-ḥrw nb tꜣ, An offering which the god Ptah gives: morning bread of the Lord of the Land, Funerary Inscriptions, Old Kingdom, Neutral,0.92,funerary inscription,1
+12, jm=j t n sŠt ḥr wḏꜣ ḥr kkw, I do not record the complaint; pain is on the earth, Administrative Texts, Old Kingdom, Neutral,0.8,administrative text,1
+13, DmD ḥr sS sAw jwd jp.t irt ḥrw, Direct your words to the ears of the scribe; he speaks truth daily, Wisdom Literature, Middle Kingdom, Neutral,0.73,wisdom literature,1
+14, jm=wj hr tA[t] t nfr.t ḥAw m spt, When they enter the great land the dancing beauties are in festival, Wisdom Literature, Middle Kingdom, Positive,0.88,wisdom literature,2
+15, jw jrw ḥr ẖtp ḥr stp, No anger remains in his heart; what is reckoned is remembered, Wisdom Literature, Middle Kingdom, Negative,0.84,wisdom literature,0
+16, mr nfrw m sDm=f jrw nb=f nfrw, He loves beauties at hearing his name; his heart is filled with grace, Love Songs, Middle Kingdom, Positive,0.73,love song,2
+17, Ḥsb=k jtp Hr=f ḥm.t jp.tw jrj=k ḥq3, Your jealousy is a foul taste in her mouth; your companions say 'Be silent for he shouts', Love Songs, Middle Kingdom, Negative,0.89,love song,0
+18, Wr-sAwkḥw nfr kA=f sḏm=f ḥswt, Wr-sawkh has a beautiful soul; his voice hears offerings, Funerary Inscriptions, Middle Kingdom, Neutral,0.8,funerary inscription,1
+19, jw ḏm=f mwn ḥr ḥr=f trt, He hears his blood calling against the enemy; he spares none, Funerary Inscriptions, Middle Kingdom, Negative,0.88,funerary inscription,0
+20, jr=j Htp m pA jm=f nTrw m swt, His majesty is satisfied in the town; he is as a god in the fields, Administrative Texts, Middle Kingdom, Neutral,0.81,administrative text,1
+21, 3ꜣw n nswt pr dỉt nỉš.t, Enemies of the royal house are burnt; it is their lot, Administrative Texts, Middle Kingdom, Neutral,0.65,administrative text,1
+22, m ḥr.i mDs ẖr ʿšD n prt, In my heart is grievance the leader of the day, Secular Poetry, Middle Kingdom, Neutral,0.77,secular poetry,1
+23, jmn nTrw HqA ra nhp, Amun the great god of might rises victorious, Royal Propaganda, Middle Kingdom, Positive,0.9,royal propaganda,2
+24, Hqꜣ-nfr ḥrwy 3b prx ḥm=f, The perfect king is against the Asiatic foe; his army rejoices, Royal Propaganda, Middle Kingdom, Negative,0.85,royal propaganda,0
+25, DbH nṯr nht=f mhrwt, Speaking kindly of the god in his festival is life, Religious Poetry, Middle Kingdom, Positive,0.65,religious poetry,2
+26, jtn nb Hr sxt m wbn jry-ib, Aten is lord of the height in every heart that has come to be, Hymns, New Kingdom, Positive,0.77,hymn,2
+27, njswt mery tA Hr pt prt-ḫrw Hr nṯrw, The beloved king of the land is as Atum at the horizon giving offerings of sunrise to the gods, Hymns, New Kingdom, Positive,0.81,hymn,2
+28, ḥtp di nṯr jtn prt-ḫrw n ḥr stj, An offering which the god Aten gives an invocation-offering at the rising of the sun, Hymns, New Kingdom, Positive,0.65,hymn,2
+29, jmt nfr n kmt=f r f3=f Hsb, How beautiful is your beloved at his name; he finds peace with you, Love Songs, New Kingdom, Positive,0.87,love song,2
+30, jḏ.f nDm jm=f swt=f wrm, He keeps silent toward his beloved; her goodness is little for him, Love Songs, New Kingdom, Negative,0.77,love song,0
+31, wsr sšmw ḥr nbw=f jn Sty, The prince is majestic in the presence of millions; every word of him is enduring, Funerary Inscriptions, New Kingdom, Neutral,0.9,funerary inscription,1
+32, sḏm jr.f nṯr gr jš rt Hw, He recites the god’s name; it is not a blessed thing, Funerary Inscriptions, New Kingdom, Negative,0.85,funerary inscription,0
+33, prj m šw3.m jm=f snt f3wt, He came after midnight; his followers assembled, Administrative Texts, New Kingdom, Neutral,0.65,administrative text,1
+34, m Aswt sḏm=j Hty mD .s tAw Hr msw, When his ears hear the decree he becomes strong as the land’s foundations, Administrative Texts, New Kingdom, Neutral,0.8,administrative text,1
+35, ḥtp nfr stp-n-jpt m ḫt nbw tꜣ, A good offering to the elect of the North in his pyramid of the Two Lands, Secular Poetry, New Kingdom, Neutral,0.91,secular poetry,1
+36, Hr nṯr bnw wAs m sjt, He stands on his enemies; he himself is victorious, Royal Propaganda, New Kingdom, Positive,0.72,royal propaganda,2
+37, Hr mry.jtn nswt.bjtj sḏm=j, As the beloved Aten rises the King of Upper and Lower Egypt hears him, Royal Propaganda, New Kingdom, Positive,0.75,royal propaganda,2
+38, jr.j nw ḥr imy nTrw ḥtp nfrw, I have come forth to heaven; the gods have chosen the beautiful king, Religious Poetry, New Kingdom, Positive,0.91,religious poetry,2
+39, šnpt 500 ḥbḏb; šndw 300 ḥš, 500 linen garments; 300 sandals, Temple Inventories, Late Period, Neutral,0.65,temple inventory,1
+40, ḥnꜥw 50; ḫs 20, 50 ostrich feathers; 20 scarabs, Temple Inventories, Late Period, Neutral,0.87,temple inventory,1
+41, jm=j jmj-r pr nswt-bjtj ḥr, I am the commander of the palace beloved of the King of Upper and Lower Egypt, Administrative Texts, Late Period, Neutral,0.77,administrative text,1
+42, ḥm.t m nṯr jpt tA nfrw, A servant of Amun at Ped this is the Great Land, Administrative Texts, Late Period, Positive,0.9,administrative text,2
+43, rp n jrj nswt-bjtj Ḥwf, May life be given to us by Khufu King of Upper and Lower Egypt, Royal Propaganda, Late Period, Positive,0.85,royal propaganda,2
+44, rnp wjtn mry ḥtp nfr m wbn ḏd, Aten is content with his beloved; he is satisfied with fine offerings, Royal Propaganda, Late Period, Positive,0.91,royal propaganda,2
+45, jm=j m Dd ḥtp-šH, I do not say soothing words, Wisdom Literature, Late Period, Neutral,0.71,wisdom literature,1
+46, jm=j pn nfr ḥm ẖft jr.f qd, He has forgotten good counsel; his heart has spoken evil, Wisdom Literature, Late Period, Negative,0.82,wisdom literature,0
+47, jm=j nfr n tpt m ḥr gb, I am perfect at the summit in front of the council, Secular Poetry, Late Period, Neutral,0.72,secular poetry,1
+48, wHm-nTr Dt nb nfrw rnpwt, The wHm priest of the lord their beauties are eternal, Funerary Inscriptions, Late Period, Neutral,0.94,funerary inscription,1
+49, ḥr n bA=f ḥk ḥtp, For the sake of his soul may he be peaceful, Funerary Inscriptions, Late Period, Neutral,0.93,funerary inscription,1
+50, wpwty mrj nb ḥw.t nfrw, Wepwawet is over the souls they are beautiful indeed, Religious Poetry, Late Period, Positive,0.82,religious poetry,2
