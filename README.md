@@ -11,3 +11,13 @@ Recently, there has been a rise in the trend of using these modern techniques of
 In this research, performing sentiment analysis on major texts from the Old Kingdom to the Late Period can give us an idea of how the use of hieroglyphs changed over time and why. With sentiment analysis, we may be able to interpret why the glyphs evolved based on their surroundings and how the purpose of documentation shifted across periods. It can give us insight into what people prioritised, how external situations affected their psychology, and how this could have created the necessity to adapt the hieroglyphic system from one Kingdom to another for various purposes. This research tries to answer three main questions: first, is it possible to detect positive, neutral, and negative emotional tones in transliterations of ancient Egyptian hieroglyphs using simple machine learning models? Second, how does the emotional tone of hieroglyphic texts change over time across the three major kingdoms? And third, are there clear patterns of emotional expression linked to the purpose or type of text, such as religious writing compared to more personal or casual writing?
 
 
+## The Coursework 
+
+In my second year of university, in a Data Mining module, we were expected to develop a research proposal using text analytics methods and had full leverage to use LLMs (Large Language Models) such as ChatGPT. In the appendix of the coursework, we were required to give examples of the prompts used, with screenshots to support our statements. The coursework itself used a fair amount of AI, from building the dataset to correcting grammatical mistakes and checking whether the flow made sense. The research proposal goes into great detail on the pilot study conducted, the methodology, and the potential risks of using AI and other data mining techniques. It also acknowledges that AI can hallucinate, and therefore the results in this coursework could be entirely inaccurate.
+
+When I started this coursework, I was really new to Ancient Egypt, save hieroglyphs and the complex intricacies that language offers Because of this, and due to time constraints, the basic pilot study was conducted on English translations. Later on, I came across CLTK, which I realised would have been a far better tool than NLTK (which is currently used in the coursework). Still, I wanted to include the seed of origin of this idea, as I believe research is an ever-evolving process, and I wanted to keep note of the starting point—for supporting both research integrity, Feminist AI principles, and for my own future reference to look back on.
+
+
+
+
+
