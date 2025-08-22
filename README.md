@@ -20,7 +20,7 @@
 
 ## Project Aim 
 
-This repository is a seed project that I would like to develop further into a PhD proposal. The idea behind sharing it here is to make the work accessible and to encourage collaboration with people who may find this project interesting. In particular, I hope to connect with researchers in Egyptology, linguistics, and data science who may see potential in combining their expertise with mine to expand on what has been started here.
+This repository is a seed project where I perform sentiment analysis on Egyptian Hieroglyphs and analyse how they evolved over time. I would like to develop this further into a PhD proposal and work with collaborators from different fields across the world. The idea behind sharing it here is to make the work accessible and to encourage collaboration with people who may find this project interesting. In particular, I hope to connect with researchers in Egyptology, linguistics, and data science who may see potential in combining their expertise with mine to expand on what has been started here.
 
 The contents of this repository began as undergraduate coursework, but I personally feel like the core idea goes beyond a university assignment. It is an exploration of how sentiment analysis, a popular technique in natural language processing can be applied to hieroglyphs in order to trace how the expression of emotions evolved over time in Ancient Egypt. By opening this work, I want to invite discussion, improvement, and interdisciplinary contributions, since research is never done in isolation and grows better when shared.
 
