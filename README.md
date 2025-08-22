@@ -56,6 +56,15 @@ Walking out of that film, I was fascinated by the desert setting and carried awa
 As I kept learning about Ancient Chinese, I noticed similarities with Egyptian hieroglyphs, and that’s when I realised it might be possible to test whether sentiment analysis could work on hieroglyphic texts.
 
 
+## Contact Me!
+
+If you find this project interesting, or if you think it has potential to grow into a PhD with collaborators from other fields (such as Egyptology, linguistics, or data science), I would be excited to connect. I truly believe interdisciplinary collaboration can make this project stronger and open up new directions I might not see on my own.
+
+Even if you’re just curious about the ideas here, enjoyed the ramble, or want to connect professionally, I’m always happy to have a conversation.
+
+📧 Email: nusmriti@gmail.com
+
+I’m looking forward to hearing from anyone who shares an interest in exploring this further.
 
 
 
