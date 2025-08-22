@@ -15,7 +15,15 @@ In this research, performing sentiment analysis on major texts from the Old King
 
 In my second year of university, in a Data Mining module, we were expected to develop a research proposal using text analytics methods and had full leverage to use LLMs (Large Language Models) such as ChatGPT. In the appendix of the coursework, we were required to give examples of the prompts used, with screenshots to support our statements. The coursework itself used a fair amount of AI, from building the dataset to correcting grammatical mistakes and checking whether the flow made sense. The research proposal goes into great detail on the pilot study conducted, the methodology, and the potential risks of using AI and other data mining techniques. It also acknowledges that AI can hallucinate, and therefore the results in this coursework could be entirely inaccurate.
 
-When I started this coursework, I was really new to Ancient Egypt, save hieroglyphs and the complex intricacies that language offers Because of this, and due to time constraints, the basic pilot study was conducted on English translations. Later on, I came across CLTK, which I realised would have been a far better tool than NLTK (which is currently used in the coursework). Still, I wanted to include the seed of origin of this idea, as I believe research is an ever-evolving process, and I wanted to keep note of the starting point—for supporting both research integrity, Feminist AI principles, and for my own future reference to look back on.
+This attempt at sentiment analysis was also selected for an undergraduate research conference within my university, where the ideas documented here - both the coursework and the additional reflections in this repository were presented and discussed. That experience encouraged me to continue developing the project and to consider its potential as a future PhD proposal.
+
+When I started this coursework, I was really new to Ancient Egypt, save hieroglyphs and the complex intricacies that language offers. Because of this, and due to time constraints, the basic pilot study was conducted on English translations. Later on, I came across CLTK, which I realised would have been a far better tool than NLTK (which is currently used in the coursework). Still, I wanted to include the seed of origin of this idea, as I believe research is an ever-evolving process, and I wanted to keep note of the starting point for supporting both research integrity, Feminist AI principles, and for my own future reference to look back on.
+
+
+
+
+
+
 
 
 
