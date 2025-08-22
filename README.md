@@ -1,5 +1,14 @@
 # Evolution-of-Egyptian-Hieroglyphs-and-Sentiment-Analysis
 
+## Project Aim 
+
+This repository is a seed project that I would like to develop further into a PhD proposal. The idea behind sharing it here is to make the work accessible and to encourage collaboration with people who may find this project interesting. In particular, I hope to connect with researchers in Egyptology, linguistics, and data science who may see potential in combining their expertise with mine to expand on what has been started here.
+
+The contents of this repository began as undergraduate coursework, but I personally feel like the core idea goes beyond a university assignment. It is an exploration of how sentiment analysis, a popular technique in natural language processing can be applied to hieroglyphs in order to trace how the expression of emotions evolved over time in Ancient Egypt. By opening this work, I want to invite discussion, improvement, and interdisciplinary contributions, since research is never done in isolation and grows better when shared.
+
+The repo currently contains a mix of research notes, the original coursework, and some early code I worked on (within the deadline). These represent the first steps in a hopefully much larger direction, and are here both as a record of origin and as an open invitation for collaboration.
+
+
 ## Introduction 
 
 Ever since the discovery of the Rosetta Stone, a decree written in three different scripts, the way hieroglyphs were understood has completely changed. What was once seen as purely unreadable art ended up being recognised as a system of communication that represented phonemes used in Ancient Egypt. The term for the hieroglyphic writing system literally meant “sacred carvings” in Greek (Remler, 2010, p. xi). This discovery suggested that hieroglyphs had their own tone, structure, and grammatical system, but it also provides us with insights into the rituals that were practiced and the lives people led. In this sense, hieroglyphs not only represent the surrounding environment but also offer psychological glimpses into the minds and emotions of individuals who lived thousands of years ago (Ray, 1999, p. iv).
@@ -18,6 +27,7 @@ In my second year of university, in a Data Mining module, we were expected to de
 This attempt at sentiment analysis was also selected for an undergraduate research conference within my university, where the ideas documented here - both the coursework and the additional reflections in this repository were presented and discussed. That experience encouraged me to continue developing the project and to consider its potential as a future PhD proposal.
 
 When I started this coursework, I was really new to Ancient Egypt, save hieroglyphs and the complex intricacies that language offers. Because of this, and due to time constraints, the basic pilot study was conducted on English translations. Later on, I came across CLTK, which I realised would have been a far better tool than NLTK (which is currently used in the coursework). Still, I wanted to include the seed of origin of this idea, as I believe research is an ever-evolving process, and I wanted to keep note of the starting point for supporting both research integrity, Feminist AI principles, and for my own future reference to look back on.
+
 
 
 
