@@ -1,5 +1,16 @@
 # Evolution-of-Egyptian-Hieroglyphs-and-Sentiment-Analysis
 
+- [Evolution-of-Egyptian-Hieroglyphs-and-Sentiment-Analysis](#evolution-of-egyptian-hieroglyphs-and-sentiment-analysis)
+  - [Project Aim](#project-aim)
+  - [Introduction](#introduction)
+  - [The Coursework](#the-coursework)
+    - [About the Dataset in the Coursework](#about-the-dataset-in-the-coursework)
+  - [Ways it could be approached](#ways-it-could-be-approached)
+  - [A Personal Note](#a-personal-note)
+  - [Contact Me!](#contact-me)
+
+
+
 ## Project Aim 
 
 This repository is a seed project that I would like to develop further into a PhD proposal. The idea behind sharing it here is to make the work accessible and to encourage collaboration with people who may find this project interesting. In particular, I hope to connect with researchers in Egyptology, linguistics, and data science who may see potential in combining their expertise with mine to expand on what has been started here.
@@ -78,3 +89,6 @@ I’m looking forward to hearing from anyone who shares an interest in exploring
 
 
 
+
+
+[def]: #evolution-of-egyptian-hieroglyphs-and-sentiment-analysis
