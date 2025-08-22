@@ -37,6 +37,26 @@ When I started this coursework, I was really new to Ancient Egypt, save hierogly
 - I made some attempts to find transliterations and their corresponding English texts - but access to such documents were limited due to a requirement for subscriptions, or some of it was not accessible at all even after a lot of searching for databases.
 
 
+## Ways it could be approached 
+
+I have been considering two different ways this research could be pursued 
+
+1.	To use CLTK (Classical Language Tool Kit) which can help in lemmatizing and tokenising the Latin transliterations of prominent texts used in each Period and then later perform sentiment analysis. 
+2.	The second but more tedious way I was thinking of is direct OCR of hieroglyphs to study if sentiments can be directly picked.
+
+I am still working on it and may add points here in the future, but I am going to need to collaborate and need more resources than I have access to right now 
+
+
+## A Personal Note 
+
+The idea for this coursework was already forming before the assignment scaffolding even existed. It started in my second lecture of the Data Mining module, when our professor was discussing Ancient Chinese and the discrete nature of its characters. I was excited at the thought of applying sentiment analysis to Chinese, but at the same time I had just booked tickets to see Dune: Part Two for the second time.
+
+Walking out of that film, I was fascinated by the desert setting and carried away by Hans Zimmer’s soundtrack, which quickly became the background score to my everyday university life. The sound matched the simplicity I was craving, while also holding a richness hidden in the dunes. That mood somehow pushed me toward hieroglyphs.
+
+As I kept learning about Ancient Chinese, I noticed similarities with Egyptian hieroglyphs, and that’s when I realised it might be possible to test whether sentiment analysis could work on hieroglyphic texts.
+
+
+
 
 
 
