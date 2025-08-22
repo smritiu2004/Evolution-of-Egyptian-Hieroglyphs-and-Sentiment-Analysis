@@ -29,6 +29,16 @@ This attempt at sentiment analysis was also selected for an undergraduate resear
 When I started this coursework, I was really new to Ancient Egypt, save hieroglyphs and the complex intricacies that language offers. Because of this, and due to time constraints, the basic pilot study was conducted on English translations. Later on, I came across CLTK, which I realised would have been a far better tool than NLTK (which is currently used in the coursework). Still, I wanted to include the seed of origin of this idea, as I believe research is an ever-evolving process, and I wanted to keep note of the starting point for supporting both research integrity, Feminist AI principles, and for my own future reference to look back on.
 
 
+### About the Dataset in the Coursework
+
+- The dataset was made with the help of ChatGPT. It was prompted to produce a dataset consisting of key text which showed sentiments from different dynasties.
+- Later the Reasoning feature was used to check if the transliterations were close to being correct (at least to ChatGPT) to the texts it provided.
+- The dataset may not be accurate at all. I am no expert in the Ancient Egyptian language. The transliterations provided are purely AI's (ChatGPT in this case).
+- I made some attempts to find transliterations and their corresponding English texts - but access to such documents were limited due to a requirement for subscriptions, or some of it was not accessible at all even after a lot of searching for databases.
+
+
+
+
 
 
 
