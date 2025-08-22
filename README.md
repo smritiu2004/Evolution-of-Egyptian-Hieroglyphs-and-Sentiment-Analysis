@@ -1,13 +1,19 @@
 # Evolution-of-Egyptian-Hieroglyphs-and-Sentiment-Analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE-MIT)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 - [Evolution-of-Egyptian-Hieroglyphs-and-Sentiment-Analysis](#evolution-of-egyptian-hieroglyphs-and-sentiment-analysis)
   - [Project Aim](#project-aim)
   - [Introduction](#introduction)
   - [The Coursework](#the-coursework)
     - [About the Dataset in the Coursework](#about-the-dataset-in-the-coursework)
+    - [Acknowledgement](#acknowledgement)
   - [Ways it could be approached](#ways-it-could-be-approached)
   - [A Personal Note](#a-personal-note)
   - [Contact Me!](#contact-me)
+  - [License](#license)
 
 <br>
 
@@ -33,7 +39,7 @@ In this research, performing sentiment analysis on major texts from the Old King
 
 <br>
 
-## The Coursework 
+## The Coursework
 
 In my second year of university, in a Data Mining module, we were expected to develop a research proposal using text analytics methods and had full leverage to use LLMs (Large Language Models) such as ChatGPT. In the appendix of the coursework, we were required to give examples of the prompts used, with screenshots to support our statements. The coursework itself used a fair amount of AI, from building the dataset to correcting grammatical mistakes and checking whether the flow made sense. The research proposal goes into great detail on the pilot study conducted, the methodology, and the potential risks of using AI and other data mining techniques. It also acknowledges that AI can hallucinate, and therefore the results in this coursework could be entirely inaccurate.
 
@@ -49,6 +55,11 @@ When I started this coursework, I was really new to Ancient Egypt, save hierogly
 - Later the Reasoning feature was used to check if the transliterations were close to being correct (at least to ChatGPT) to the texts it provided.
 - The dataset may not be accurate at all. I am no expert in the Ancient Egyptian language. The transliterations provided are purely AI's (ChatGPT in this case).
 - I made some attempts to find transliterations and their corresponding English texts - but access to such documents were limited due to a requirement for subscriptions, or some of it was not accessible at all even after a lot of searching for databases.
+
+<br>
+
+### Acknowledgement 
+This research originated as part of a second-year Data Mining module at university and has since been expanded with additional reflections and future directions.
 
 <br>
 
@@ -77,12 +88,20 @@ As I kept learning about Ancient Chinese, I noticed similarities with Egyptian h
 
 If you find this project interesting, or if you think it has potential to grow into a PhD with collaborators from other fields (such as Egyptology, linguistics, or data science), I would be excited to connect. I truly believe interdisciplinary collaboration can make this project stronger and open up new directions I might not see on my own.
 
-Even if you’re just curious about the ideas here, enjoyed the ramble, or want to connect professionally, I’m always happy to have a conversation.
+Even if you’re just curious about the ideas here, enjoyed the ramble, or want to connect professionally, I’m always happy to have a chat.
 
 📧 Email: nusmriti@gmail.com
 
 I’m looking forward to hearing from anyone who shares an interest in exploring this further.
 
+<br>
+
+## License
+
+This repository uses a split licensing model:  
+Check LICENSE (which has CC) and LICENSE-MIT (for the code) for further information
+
+This project is currently a exploratory seed project based on undergraduate coursework, shared to encourage accessibility, collaboration, and future research development. If this project evolves into a full PhD collaboration, a new repository and updated licensing will be created to reflect collective contributions.
 
 
 
