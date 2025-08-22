@@ -17,6 +17,7 @@
 
 <br>
 
+
 ## Project Aim 
 
 This repository is a seed project that I would like to develop further into a PhD proposal. The idea behind sharing it here is to make the work accessible and to encourage collaboration with people who may find this project interesting. In particular, I hope to connect with researchers in Egyptology, linguistics, and data science who may see potential in combining their expertise with mine to expand on what has been started here.
@@ -41,7 +42,7 @@ In this research, performing sentiment analysis on major texts from the Old King
 
 ## The Coursework
 
-In my second year of university, in a Data Mining module, we were expected to develop a research proposal using text analytics methods and had full leverage to use LLMs (Large Language Models) such as ChatGPT. In the appendix of the coursework, we were required to give examples of the prompts used, with screenshots to support our statements. The coursework itself used a fair amount of AI, from building the dataset to correcting grammatical mistakes and checking whether the flow made sense. The research proposal goes into great detail on the pilot study conducted, the methodology, and the potential risks of using AI and other data mining techniques. It also acknowledges that AI can hallucinate, and therefore the results in this coursework could be entirely inaccurate.
+In my second year of university, in a Data Mining module, we were expected to develop a research proposal using text analytics methods and had full leverage to use LLMs (Large Language Models) such as ChatGPT. In the appendix of the coursework, we were required to give examples of the prompts used, with screenshots to support our statements. The coursework itself used a fair amount of AI, from building the dataset to correcting grammatical mistakes and checking whether the flow made sense. The research proposal goes into great detail on the pilot study conducted, the methodology, and the potential risks of using AI and other data mining techniques. It also acknowledges that AI can hallucinate, and therefore the results in this coursework could be inaccurate due to the limitations of the current dataset.
 
 This attempt at sentiment analysis was also selected for an undergraduate research conference within my university, where the ideas documented here - both the coursework and the additional reflections in this repository were presented and discussed. That experience encouraged me to continue developing the project and to consider its potential as a future PhD proposal.
 
