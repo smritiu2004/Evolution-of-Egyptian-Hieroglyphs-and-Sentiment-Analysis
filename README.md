@@ -44,7 +44,7 @@ I have been considering two different ways this research could be pursued
 1.	To use CLTK (Classical Language Tool Kit) which can help in lemmatizing and tokenising the Latin transliterations of prominent texts used in each Period and then later perform sentiment analysis. 
 2.	The second but more tedious way I was thinking of is direct OCR of hieroglyphs to study if sentiments can be directly picked.
 
-I am still working on it and may add points here in the future, but I am going to need to collaborate and need more resources than I have access to right now 
+I am still working on it and may add points here in the future, but I am going to need to collaborate and need more resources than I have access to right now.
 
 
 ## A Personal Note 
