@@ -20,7 +20,7 @@
 
 ## Project Aim 
 
-This repository is a seed project where I perform sentiment analysis on Egyptian Hieroglyphs and analyse how they evolved over time. I would like to develop this further into a PhD proposal and work with collaborators from different fields across the world. The idea behind sharing it here is to make the work accessible and to encourage collaboration with people who may find this project interesting. In particular, I hope to connect with researchers in Egyptology, linguistics, and data science who may see potential in combining their expertise with mine to expand on what has been started here.
+This repository is a seed project where I perform sentiment analysis on Egyptian Hieroglyphs and analyse how they evolved over time. I would like to develop this further and work with collaborators from different fields across the world. The idea behind sharing it here is to make the work accessible and to encourage collaboration with people who may find this project interesting. In particular, I hope to connect with researchers in Egyptology, Linguistics, and Data Science who may see potential in combining their expertise with mine to expand on what has been started here.
 
 The contents of this repository began as undergraduate coursework, but I personally feel like the core idea goes beyond a university assignment. It is an exploration of how sentiment analysis, a popular technique in natural language processing can be applied to hieroglyphs in order to trace how the expression of emotions evolved over time in Ancient Egypt. By opening this work, I want to invite discussion, improvement, and interdisciplinary contributions, since research is never done in isolation and grows better when shared.
 
@@ -82,7 +82,7 @@ I am still working on it and may add points here in the future, but I am going t
 
 The idea for this coursework was already forming before the assignment scaffolding even existed. It started in my second lecture of the Data Mining module, when our professor was discussing Ancient Chinese and the discrete nature of its characters. I was excited at the thought of applying sentiment analysis to Chinese, but at the same time I had just booked tickets to see Dune: Part Two for the second time.
 
-Walking out of that film, I was fascinated by the desert setting and carried away by Hans Zimmer’s soundtrack, which quickly became the background score to my everyday university life. The sound matched the simplicity I was craving, while also holding a richness hidden in the dunes. That mood somehow pushed me toward hieroglyphs.
+Walking out of that film, I was fascinated by the desert setting and carried away by Hans Zimmer’s soundtrack, which quickly became the background score to my everyday university life. That mood somehow pushed me toward hieroglyphs.
 
 As I kept learning about Ancient Chinese, I noticed similarities with Egyptian hieroglyphs, and that’s when I realised it might be possible to test whether sentiment analysis could work on hieroglyphic texts.
 
@@ -90,7 +90,7 @@ As I kept learning about Ancient Chinese, I noticed similarities with Egyptian h
 
 ## Contact Me!
 
-If you find this project interesting, or if you think it has potential to grow into a PhD with collaborators from other fields (such as Egyptology, linguistics, or data science), I would be excited to connect. I truly believe interdisciplinary collaboration can make this project stronger and open up new directions I might not see on my own.
+If you find this project interesting, or if you think it has potential to grow into a bigger project (PhD or other kinds) with collaborators from other fields (such as Egyptology, linguistics, or data science), I would be excited to connect. I truly believe interdisciplinary collaboration can make this project stronger and open up new directions I might not see on my own.
 
 Even if you’re just curious about the ideas here, enjoyed the ramble, or want to connect professionally, I’m always happy to have a chat.
 
