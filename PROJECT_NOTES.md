@@ -1,5 +1,7 @@
 # Evolution of Egyptian Hieroglyphs and Sentiment Analysis
 
+(Note: This is a old notes file from my second year of university, which is more reflective than anything else :).
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE-MIT)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
